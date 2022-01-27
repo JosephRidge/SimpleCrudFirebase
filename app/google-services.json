@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "602020983123",
+    "firebase_url": "https://smartgreen-9f82a-default-rtdb.firebaseio.com",
+    "project_id": "smartgreen-9f82a",
+    "storage_bucket": "smartgreen-9f82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602020983123:android:5e128378b116dfa44eb1a6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602020983123-m4pk4vcv9tom5k07ajn13j0gua7lgjl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXFQwFJ1kGla6IcQ-BmvUu-TkCIsMQL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602020983123-m4pk4vcv9tom5k07ajn13j0gua7lgjl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602020983123:android:a44b2e84823264d54eb1a6",
+        "android_client_info": {
+          "package_name": "com.jayr.smartfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602020983123-m4pk4vcv9tom5k07ajn13j0gua7lgjl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXFQwFJ1kGla6IcQ-BmvUu-TkCIsMQL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602020983123-m4pk4vcv9tom5k07ajn13j0gua7lgjl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602020983123:android:b11d958fd81bfbc94eb1a6",
+        "android_client_info": {
+          "package_name": "com.smartgreen.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602020983123-m4pk4vcv9tom5k07ajn13j0gua7lgjl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXFQwFJ1kGla6IcQ-BmvUu-TkCIsMQL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602020983123-m4pk4vcv9tom5k07ajn13j0gua7lgjl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
